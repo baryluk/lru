@@ -1,0 +1,6 @@
+Simple LRU implementation in D programming language.
+
+It uses singly linked list, instead of popular
+double-linked list. It makes memory consumption
+much lower, but makes some operations slightly
+more complex. All operations are O(1).
